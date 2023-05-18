@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/SSU_Daemon.dir/main.cpp.o -o SSU_Daemon 

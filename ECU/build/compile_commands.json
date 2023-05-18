@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/aprolad/Documents/VS code projects/ECU/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ECU.dir/main.cpp.o -c \"/home/aprolad/Documents/VS code projects/ECU/main.cpp\"",
+  "file": "/home/aprolad/Documents/VS code projects/ECU/main.cpp"
+}
+]

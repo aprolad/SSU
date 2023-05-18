@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/SSU_Utility.dir/main.cpp.o -o SSU_Utility 

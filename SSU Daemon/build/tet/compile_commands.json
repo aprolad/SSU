@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/aprolad/Documents/VS code projects/SSU Daemon/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/SSU_Daemon.dir/main.cpp.o -c \"/home/aprolad/Documents/VS code projects/SSU Daemon/main.cpp\"",
+  "file": "/home/aprolad/Documents/VS code projects/SSU Daemon/main.cpp"
+}
+]
